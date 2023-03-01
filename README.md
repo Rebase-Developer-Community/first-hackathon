@@ -9,3 +9,4 @@ This is the First repository for the entry-point to the community
 
 #### [Dixit Vora](https://github.com/vd89)
 
+![image](https://user-images.githubusercontent.com/34570078/222136389-3c2610bd-d116-43f5-939d-1a09b8a8bf57.png)
